@@ -1,6 +1,6 @@
-telegram_token = ''
-admin_chat_id = [123456789]
-user_chat_id = [123456789]
+telegram_token = '6770770916:AAHhvXqWnKl1MYTe5GLJTIYGjn0kNRPlymY'
+admin_chat_id = [5975066452]
+user_chat_id = [5975066452]
 video_path = '/mp4/'
 audio_path = '/mp3/'
 enable_ftp = 'false'
